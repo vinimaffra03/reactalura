@@ -19,3 +19,14 @@
     padding: 24px;
     box-sizing: border-box;
 }
+
+input:invalid {
+    border: 2px solid red;
+    background-color: #ffe6e6;
+  }
+  
+input:focus:invalid {
+    outline: none;
+    box-shadow: 0 0 5px red;
+  }
+  

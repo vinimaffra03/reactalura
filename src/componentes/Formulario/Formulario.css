@@ -12,12 +12,3 @@
     box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.08);
 }
 
-.formulario button {
-    background-color: #6278F7;
-    padding: 1em 1.5em;
-    color: white;
-    font-size: 24px;
-    font-weight: 600;
-    font-family: 'Montserrat' sans-serif;
-    margin-top: 1em;
-}
